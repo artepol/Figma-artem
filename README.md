@@ -1,3 +1,3 @@
 #Рекомендуется к чтению
 
-[Сайт](https://artepol.github.io/Figma-artem/)
+[Сайт](https://github.com/artepol/Figma-artem.git)
